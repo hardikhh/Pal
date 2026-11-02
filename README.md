@@ -1,2 +1,2 @@
 # Pal
-Voice-first AI payment assistant powered by PayPal
+Voice-first AI payment assistant powered by PayPal for Hackathon
